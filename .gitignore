@@ -1,0 +1,12 @@
+.DS*
+*.old
+*.o
+*.s
+*.mod
+*.f90
+*.a
+scr/*
+cuda/lib/test
+cuda/mpi/mpigpu
+
+
